@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Coursera IBM Capstone Project
+# ML Classification
+ ML Classification for IBM Coursera Capstone Project
